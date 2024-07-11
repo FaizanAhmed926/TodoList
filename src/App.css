@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 100vh;
+    width: 100vw;
+    /* background-color: rgba(178, 217, 217, 0.722); */
+}
+.container{
+    height:75vh;
+    width: 50vw;
+    
+}
+.detail
+{
+    max-width: 75%;
+}
